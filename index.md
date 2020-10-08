@@ -1,18 +1,21 @@
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title> this is a test</title>
+        <title> welcome</title>
             <style>
                 body {
                  background-color:blueviolet;
-                font:Black;
+                 color:  white;
+                 font-family:Arial, Helvetica, sans-serif;
                 }
+
             </style>
     </head>
     <body>
-        <p class="test"> <strong>this is a test</strong> <br>I am doing this test to test out
-             vs code im very glad that this works </p>
+        <h1>Welcome to my website</h1>
+        <p>I am hosting this site on gethub and soon it will have acuall content<br>
+             While you are  waiting here is a cat picture<br>
+             <img src="https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697" width=500> </p>
     </body>
 </html>
-
-
