@@ -4,9 +4,12 @@
         <title> welcome</title>
             <style>
                 body {
-                 background-color:blueviolet;
-                 color:  white;
-                 font-family:Arial, Helvetica, sans-serif;
+                 background-color:rgb(87, 87, 238);
+                 color:  black;
+                 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                }
+                p{
+                    font-size: 20px;
                 }
 
             </style>
