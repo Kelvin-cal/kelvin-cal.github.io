@@ -7,9 +7,7 @@
             <style>
                 body {
                  background-color:blueviolet;
-                }
-                .test{ 
-                    color: black ;
+                font:Black;
                 }
             </style>
     </head>
