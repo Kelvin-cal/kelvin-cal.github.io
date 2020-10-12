@@ -6,7 +6,7 @@
                 body {
                  background-color:white;
                  color:black;
-                 font-family:mono;
+                 font-family:ubuntu;
                 }
                 p {font-size: 25px;}
 
