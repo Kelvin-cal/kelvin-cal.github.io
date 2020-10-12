@@ -6,11 +6,9 @@
                 body {
                  background-color:rgb(87, 87, 238);
                  color:  black;
-                 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                 font-family:monospace;
                 }
-                p{
-                    font-size: 20px;
-                }
+                p {font-size: 30px;}
 
             </style>
     </head>
