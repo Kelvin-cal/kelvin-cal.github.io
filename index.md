@@ -1,14 +1,14 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title> welcome</title>
+        <title>welcome</title>
             <style>
                 body {
-                 background-color:rgb(87, 87, 238);
-                 color:  black;
-                 font-family:monospace;
+                 background-color:white;
+                 color:black;
+                 font-family:mono;
                 }
-                p {font-size: 30px;}
+                p {font-size: 25px;}
 
             </style>
     </head>
