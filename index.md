@@ -34,7 +34,6 @@
     </head>
     <body>
         <h1>Welcome to my Website</h1>
-        <h2>Welcome</h2>
             <p> Hello, I am making this website for my school computer class presentation<br>
         <h2>How I Made This</h2>
         <h3>Khan Academmy</h3>
