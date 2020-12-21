@@ -23,6 +23,12 @@
                 h3 {
                     font-size: 15pt;
                 }
+                #merry{
+                color:rgb(192, 3, 3);
+                }
+                #christmas{
+                color:rgb(0, 128, 0)
+                }
 .rgba-primary-0 { color: rgba( 51, 54,118,1) }	/* Main Primary color */
 .rgba-primary-1 { color: rgba(127,129,177,1) }
 .rgba-primary-2 { color: rgba( 84, 88,148,1) }
@@ -53,5 +59,6 @@
             <p>In doing this progect I have learned about the basics of HTML, CSS, and the<br>
              basic knowlige of how to program. and I think that these skills would help<br>
              me very much in my carear even if I am not a website designer.</p>
+         <h1><div id="merry">Merry</div> <div id="christmas">Christmas!!!</div></h1>
     </body>
 </html>
